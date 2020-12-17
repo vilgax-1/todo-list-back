@@ -1,0 +1,18 @@
+{
+  "name": "entrevista",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.9.1",
+    "fastify-cors": "^5.1.0",
+    "nodemon": "^2.0.6",
+    "pg": "^8.5.1",
+    "validatorjs": "^3.22.1"
+  }
+}
